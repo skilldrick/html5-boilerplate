@@ -5,3 +5,7 @@ build/buildinfo.properties
 .hg/
 thumb.db
 .idea
+*~
+*.py
+*.pyc
+*.bat
